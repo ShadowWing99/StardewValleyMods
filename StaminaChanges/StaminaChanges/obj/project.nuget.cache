@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1kgTzPMml9X6P9W7rboGvFhFHAW2FTjLYphTmuUZ0FhQy1CpREUZyvCxs64epWQbHLywcU0KVFOORdUs6EbtQ==",
+  "success": true,
+  "projectFilePath": "/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/StaminaChanges.csproj",
+  "expectedPackageFiles": [
+    "/Users/jsampson2117/.nuget/packages/pathoschild.stardew.modbuildconfig/4.1.1/pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/bin/Debug/net5.0/StaminaChanges.deps.json
+/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/bin/Debug/net5.0/StaminaChanges.dll
+/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/obj/Debug/net5.0/StaminaChanges.csproj.AssemblyReference.cache
+/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/obj/Debug/net5.0/StaminaChanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/obj/Debug/net5.0/StaminaChanges.AssemblyInfoInputs.cache
+/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/obj/Debug/net5.0/StaminaChanges.AssemblyInfo.cs
+/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/obj/Debug/net5.0/StaminaChanges.csproj.CoreCompileInputs.cache
+/Users/jsampson2117/Projects/StardewValleyMods/StaminaChanges/StaminaChanges/obj/Debug/net5.0/StaminaChanges.dll
